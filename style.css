@@ -1,0 +1,35 @@
+body
+{
+    text-align: center;
+}
+.main_div
+{
+    background-color: rgba(240, 116, 135, 0.952);
+    height: 98%;
+}
+#btn
+{
+    margin-top: 50px;
+    width: 150px;
+    background-color: antiquewhite;
+    color: black;
+}
+h2
+{
+    color: rgb(239, 127, 28);
+    font-style: italic;
+}
+#result_label
+{
+    color: rgb(12, 12, 103);
+    font-style: italic;
+}
+.copyright_footer
+{
+    width: 100%;
+    background-color: aliceblue;
+}
+.header_div
+{
+    background-color: rgb(245, 241, 241);
+}
